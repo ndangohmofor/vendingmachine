@@ -1,0 +1,12 @@
+Exit,EXIT
+Sales Report,SALES_REPORT
+Purchase Items,PURCHASE
+Finish Transaction - Return,MAKE_PURCHASE
+Feed Money,FEED
+Add $1,ADD_MONEY
+Add $2,ADD_MONEY
+Add $5,ADD_MONEY
+Add $10,ADD_MONEY
+Done Adding Money,PURCHASE
+Select Product,SELECT_PRODUCT
+Display Vending Machine Items,DISPLAY_ITEMS

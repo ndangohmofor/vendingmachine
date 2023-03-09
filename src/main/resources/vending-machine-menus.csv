@@ -1,0 +1,3 @@
+MAIN,Display Vending Machine Items,Purchase Items,Exit,Sales Report
+PURCHASE,Feed Money,Select Product,Finish Transaction - Return
+FEED,Add $1,Add $2,Add $5,Add $10,Done Adding Money
